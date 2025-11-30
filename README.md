@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Lenny 👋
 
-<!--
-**mvrlenny/mvrlenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Computer Science** student, deeply driven by curiosity, problem-solving, and the continuous journey of learning. I enjoy building projects, breaking things to understand them, and rebuilding them even better. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
+
+I'm working toward a career in **Software Development / IT / Cloud**, with interests in backend development, automation, and distributed systems.
+
+
+## 🔥 About Me
+
+- 🎓 Currently pursuing a **Bachelor's in Computer Science**
+- 💻 Experience with academic & personal projects (Java, SQL, Web, Phython)
+- ☁️ Learning AWS & Cloud fundamentals  
+- 🧠 Logical, analytical, and always improving
+
+
+## 🛠 Tech Stack
+
+| Languages | Tools / Frameworks | Other |
+|----------|-------------------|-------|
+| Java ☕ | Git / GitHub | Linux (fundamentals) |
+| SQL | HTML / CSS | PostgreSQL / MySQL |
+| Python (learning) | REST APIs | AWS (in progress) |
+
+
+## 📂 Featured Projects
+
+### 🎲 Random Winner Picker Web App  
+A web app that allows users to input names and randomly select a winner.  
+**Tech:** JavaScript, HTML, CSS  
+🔗 *Repo:* *github.com/mvrlenny/challenge-amigo-secreto)*  
+
+### 📦 Next Project Placeholder  
+> coming soon.
+
+
+
+## 📫 Connect with Me
+
+📍 Sint Maarten 🌴🇸🇽 (The Netherlands 🇳🇱) Open to relocate   
+📧 **Email:** *mvrlenny@gmail.com*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/marlenny-richardson-sde/*  
+🌎 **Portfolio:** Coming soon 🚧
+
