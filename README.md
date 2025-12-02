@@ -20,9 +20,9 @@ I'm working toward a career in **Software Development / IT / Cloud**, with inter
 
 | Languages | Tools / Frameworks | Other |
 |----------|-------------------|-------|
-| Java ☕ | Git / GitHub | Linux (fundamentals) |
+| Java ☕ (learning) | Git / GitHub | Linux (fundamentals) |
 | SQL | HTML / CSS | PostgreSQL / MySQL |
-| Python (learning) | REST APIs | AWS (in progress) |
+| Python 🐍 | REST APIs | AWS (in progress) |
 
 
 ## 📂 Featured Projects
