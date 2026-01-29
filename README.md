@@ -36,7 +36,7 @@ A web app that allows users to input names and randomly select a winner.
 A personal website built using a professional template and customized to showcase projects, photography, and services.   
 **Tech:** Vue.js, Tailwind CSS, Vercel, DNS
 🔗 Live Site: https://www.jocsyfotos.com  
-🔗 Repo: https://github.com/your-repo-link *(optional)*  
+🔗 Repo: *(https://github.com/mvrlenny/jocsyfotos.github.io)*  
 
 ### 📦 Next Project Placeholder  
 > coming soon.
