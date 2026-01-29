@@ -32,6 +32,12 @@ A web app that allows users to input names and randomly select a winner.
 **Tech:** JavaScript, HTML, CSS  
 🔗 *Repo:* *github.com/mvrlenny/challenge-amigo-secreto)*  
 
+### 🌐 Portfolio Website (Template-Based)  
+A personal website built using a professional template and customized to showcase projects, photography, and services.   
+**Tech:** Vue.js, Tailwind CSS, Vercel, DNS
+🔗 Live Site: https://www.jocsyfotos.com  
+🔗 Repo: https://github.com/your-repo-link *(optional)*  
+
 ### 📦 Next Project Placeholder  
 > coming soon.
 
@@ -39,7 +45,7 @@ A web app that allows users to input names and randomly select a winner.
 
 ## 📫 Connect with Me
 
-📍 Sint Maarten 🌴🇸🇽 (The Netherlands 🇳🇱) Open to relocate   
+📍 Based on Sint Maarten 🌴🇸🇽 
 📧 **Email:** *mvrlenny@gmail.com*  
 🔗 **LinkedIn:** *https://www.linkedin.com/in/marlenny-richardson-sde/*  
 🌎 **Portfolio:** Coming soon 🚧
