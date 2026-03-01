@@ -44,6 +44,7 @@ A personal website built using a professional template and customized to showcas
 
 ### 💱 Currency Converter Console App (API Integration Project)
 A console-based Java application that converts USD into multiple international currencies using real-time exchange rates from an external API. Demonstrates HTTP requests, JSON parsing, and secure API key handling with environment variables.
+
 **Tech:** Java, HttpClient, Gson, REST API
 
 🔗 Repo: https://github.com/mvrlenny/ConversorApp
