@@ -31,7 +31,7 @@ I'm working toward a career in **Software Development / IT / Cloud**, with inter
 A web app that allows users to input names and randomly select a winner.  
 **Tech:** JavaScript, HTML, CSS
 
-🔗 Repo: *github.com/mvrlenny/challenge-amigo-secreto*  
+🔗 Repo: *https://github.com/mvrlenny/challenge-amigo-secreto*  
 
 
 ### 🌐 Portfolio Website (Template-Based)  
