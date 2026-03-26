@@ -49,6 +49,14 @@ A console-based Java application that converts USD into multiple international c
 🔗 Repo: https://github.com/mvrlenny/ConversorApp
 
 
+### 🏠 Simple Home Network Lab – CCNA Packet Tracer
+A Packet Tracer project that simulates a basic home network with multiple devices, IP addressing, and connectivity testing. Demonstrates practical networking skills and hands-on experience with Cisco network configuration.
+
+**Tech:** Cisco Packet Tracer, Network Simulation, IP Configuration
+
+🔗 Repo: https://github.com/mvrlenny/ccna-packet-tracer-labs
+
+
 ### 📦 Next Project Placeholder  
 > coming soon.
 
