@@ -62,10 +62,7 @@ A Packet Tracer project that simulates a basic home network with multiple device
 
 
 
-## 📫 Connect with Me
-
-📍 Based on Sint Maarten 🌴🇸🇽 
-📧 **Email:** *mvrlenny@gmail.com*  
+## 📫 Connect with Me 
 🔗 **LinkedIn:** *https://www.linkedin.com/in/marlenny-richardson-sde/*  
 🌎 **Portfolio:** Coming soon 🚧
 
